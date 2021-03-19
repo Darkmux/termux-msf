@@ -1,0 +1,3 @@
+#!/bin/bash
+MSF="/data/data/com.termux/files/usr/opt/metasploit-framework"
+exec ruby "${MSF}/msfvenom" "$@"
