@@ -7,10 +7,10 @@ termux-msf es un script de auto-instalación de metasploit-framework en la termi
 # REQUISITOS
 * [-] git
 # INSTALACIÓN
-* git clone https://github.com/Darkmux/termux-msf
-* cd termux-msf
-* chmod 777 msf.sh
-* bash msf.sh
+* $ git clone https://github.com/Darkmux/termux-msf
+* $ cd termux-msf
+* $ chmod 777 msf.sh
+* $ bash msf.sh
 # Creado por Darkmux
 # ©WHITE HACKS
 https://t.me/whitehacks_bot
